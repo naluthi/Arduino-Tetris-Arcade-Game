@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the source code for a custom Tetris arcade game, created as my sophomore honors project at Scottsdale Community College. This game is designed to be run on an Arduino platform, and uses some physical controls and an LED display to create a custom arcade game experience based on the classic game of Tetris.
 
-# Features
+## Features
 **Custom Hardware Controls:** Immensely improve the play experience with your game with built-in joystick and button controls.
 **LED Matrix Display:** Gameplay display with an LED strip housed in the game grid; that is, the LED strip will display the game grid and Tetris pieces.
 **Scoring System:** Scoring system using EEPROM storage that saves the 4-digit top score which is saved using ROM storage and a 4-digit current score for the current game being played. 
