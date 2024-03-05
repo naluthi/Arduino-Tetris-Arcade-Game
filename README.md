@@ -15,10 +15,17 @@ The Tetris arcade game developed for this project offers a comprehensive impleme
 - **Memory Management**: The project utilizes EEPROM storage to save high scores, allowing players to track their progress over time and set new high score targets.
 
 ## Hardware Requirements
-- Arduino Uno or compatible board
-- Adafruit NeoPixel LED strip
-- Joystick and button set
-- EEPROM for score storage
+- 5M WS2812 LED’s 
+- Arduino MEGA
+- Breadboard
+- Jumper Wires
+- Joystick
+- 6x Single-Pole Momentary Contact Push-Button Switch
+- MAX7219 8-Digit LED Display 7-Segment Digital Tube
+  
+## Arduino Pin Diagram
+![Arduino Pin Diagram Small](https://github.com/naluthi/Arduino-Tetris-Arcade-Game/assets/116135231/81f5a5d4-3479-49b8-bb3a-ce1c8aa3b3bc)
+
 
 ## Software Requirements
 - Arduino IDE for uploading the code to the Arduino board
