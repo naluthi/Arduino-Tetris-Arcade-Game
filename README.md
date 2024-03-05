@@ -1,7 +1,7 @@
 # Arduino Tetris Arcade Game
 
 ## Overview
-This repository contains the source code for a custom Tetris arcade game, created as my sophomore honors project at Scottsdale Community College. This game is designed to be run on an Arduino platform, and uses some physical controls and an LED display to create a custom arcade game experience based on the classic game of Tetris.
+This repository contains the source code for a custom Tetris arcade game, created as my sophomore honors project at Scottsdale Community College. This game is designed to be run on an Arduino platform and uses some physical controls and an LED display to create a custom arcade game experience based on the classic game of Tetris.
 
 ## Functionality
 
@@ -30,13 +30,4 @@ The Tetris arcade game developed for this project offers a comprehensive impleme
 2. Install the Arduino IDE on your computer.
 3. Download and install the Adafruit NeoPixel and EEPROM libraries using the Library Manager in the Arduino IDE.
 4. Clone this repository to your local machine.
-5. Open `Tetris.cpp` with the Arduino IDE, adjust pin configurations as necessary, and upload it to your Arduino board.
-
-## Contributing
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-This project is open-source and available under the MIT License. See the LICENSE file for more information.
-
-## Acknowledgments
-Special thanks to Scottsdale Community College for providing the environment and support needed to undertake this project. Additional thanks to the Arduino and Adafruit communities for their invaluable resources and libraries.
+5. Open `Tetris.cpp` with the Arduino IDE, adjust pin configurations as necessary and upload it to your Arduino board.
