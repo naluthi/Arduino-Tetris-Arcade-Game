@@ -22,9 +22,9 @@ The Tetris arcade game developed for this project offers a comprehensive impleme
 - Joystick
 - 6x Single-Pole Momentary Contact Push-Button Switch
 - MAX7219 8-Digit LED Display 7-Segment Digital Tube
-  
+
 ## Arduino Pin Diagram
-![Arduino Pin Diagram Small](https://github.com/naluthi/Arduino-Tetris-Arcade-Game/assets/116135231/81f5a5d4-3479-49b8-bb3a-ce1c8aa3b3bc)
+![Arduino Pin Diagram Medium](https://github.com/naluthi/Arduino-Tetris-Arcade-Game/assets/116135231/3d3accac-642c-4168-957b-4e825acb2651)
 
 
 ## Software Requirements
