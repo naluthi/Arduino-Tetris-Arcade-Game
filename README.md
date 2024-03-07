@@ -1,11 +1,19 @@
 # Arduino Tetris Arcade Game
-![GitHub top language](https://img.shields.io/github/languages/top/naluthi/HealthGPT)
 
-## Table of Contents
+![GitHub top language](https://img.shields.io/github/languages/top/naluthi/Arduino-Tetris-Arcade-Game) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yourusername/Arduino-Tetris-Arcade-Game) 
+![Arduino](https://img.shields.io/badge/Arduino-IDE-green.svg)
 
 ## Description
 
 This repository contains the source code for a custom Tetris arcade game, created as my sophomore honors project at Scottsdale Community College. This game is designed to be run on an Arduino platform and uses some physical controls and an LED display to create a custom arcade game experience based on the classic game of Tetris.
+
+## Table of Contents
+- [Features](#features)
+- [Software Requirements](#software-requirements)
+- [Hardware Requirements](#hardware-requirements)
+- [Arduino Pin Diagram](#arduino-pin-diagram)
+- [Contact](#contact)
 
 ## Features
 
@@ -22,14 +30,12 @@ The Tetris arcade game developed for this project offers a comprehensive impleme
 - **Memory Management**: The project utilizes EEPROM storage to save high scores, allowing players to track their progress over time and set new high-score targets.
 
 ## Software Requirements
-
-- Arduino IDE for uploading the code to the Arduino board
+- Arduino IDE for uploading code to the Arduino MEGA
 - Adafruit NeoPixel Library
 - EEPROM Library for Arduino
 
 ## Hardware Requirements
-
-- 5M WS2812 LED’s 
+- 5M WS2812 LED’s
 - Arduino MEGA
 - Breadboard
 - Jumper Wires
@@ -43,5 +49,5 @@ The Tetris arcade game developed for this project offers a comprehensive impleme
 
 # Contact
 
-[![Outlook](https://img.shields.io/badge/Microsoft\\_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](nick@luthi.us) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](nick@luthi.us) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickluthi)
