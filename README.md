@@ -1,7 +1,7 @@
 # Arduino Tetris Arcade Game
 
 ![GitHub top language](https://img.shields.io/github/languages/top/naluthi/Arduino-Tetris-Arcade-Game) 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yourusername/Arduino-Tetris-Arcade-Game) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naluthi/Arduino-Tetris-Arcade-Game) 
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-green.svg)
 
 ## Description
