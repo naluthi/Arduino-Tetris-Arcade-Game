@@ -19,17 +19,17 @@ This repository contains the source code for a custom Tetris arcade game, create
 
 Using an Arduino create an LED Tetris game. The device should have functional controls and repeatable gameplay so that future students interested in or currently taking computer science courses and use it. The main objective is to demo skills and knowledge that will be learned throughout the computer science courses at SCC and create interest for those students.
 
-**1. Develop effective written communication skills **
+**1. Develop effective written communication skills**
 
 - My honors project involved writing a C++ program that contained over 900 lines of code and multiple functions at use. Therefore, to increase understanding and communication of my project I wrote comments all over my program to increase readability. This developed effective written communication skills by increasing my ability to explain and document my work so that others can understand it without speaking to me directly.
 
-**2. Develop effective oral communication skills **
+**2. Develop effective oral communication skills**
 
 - I explained my thought process behind my design as well as the functionality of my program and electrical implementations of my Arduino, analog controls, 7-segment display, and LED light strips. This developed effective oral communication skills as this project has a plethora of combined pieces and is a complicated project, therefore it was important to understand each concept in great detail so that communicating it was simple.
 
-**3. Develop an ability to analyze and synthesize a broad range of materials.**
+**3. Develop an ability to analyze and synthesize a broad range of materials**
 
-- For my project, I built a custom Tetris arcade game using an Arduino and LED strand lights. I had to research a broad range of materials including how to read and write functions using the Arduino IDE, how to wire LED’s and analog controls to an Arduino, and how to write my program my Arduino using C++ and the Arduino framework.
+- For my project, I built a custom Tetris arcade game using an Arduino and LED strand lights. I had to research a broad range of materials including how to read and write functions using the Arduino IDE, how to wire LEDs and analog controls to an Arduino, and how to write my program my Arduino using C++ and the Arduino framework.
 
 **4. Become more independent and critical thinkers.**
 
